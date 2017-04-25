@@ -1,0 +1,5 @@
+﻿  Source.cpp
+e:\education\micro cs331\project\facedetection\facedetection\source.cpp(100): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\education\micro cs331\project\facedetection\facedetection\source.cpp(101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  FaceDetection.vcxproj -> E:\Education\Micro CS331\Project\FaceDetection\x64\Debug\FaceDetection.exe
+  FaceDetection.vcxproj -> E:\Education\Micro CS331\Project\FaceDetection\x64\Debug\FaceDetection.pdb (Full PDB)
